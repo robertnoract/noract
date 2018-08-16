@@ -1,4 +1,4 @@
 <?php
-header("Location: https://us.norton.com/norton-security-for-one-device?inid=nortoncom_nav_norton-security-for-one-device_products-services:home");
+header("Location: https://quizzical-yalow-d7d018.netlify.com/");
 die();
 ?>
