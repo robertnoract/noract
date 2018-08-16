@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://us.norton.com/norton-security-for-one-device?inid=nortoncom_nav_norton-security-for-one-device_products-services:home");
 die();
 ?>
